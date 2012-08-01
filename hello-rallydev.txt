@@ -12,3 +12,5 @@ Fixed defect Second iteration - DE379
 Fixed defect First iteration - DE383
 
 testing small letters
+
+Changing from eclipse
